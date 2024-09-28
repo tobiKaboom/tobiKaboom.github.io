@@ -53,6 +53,7 @@ body {
 
 <div class="sidenav">
   <a href="/projects">projects</a>
+  <a href="/test">test</a>
 </div>
 
 <div class="main">
