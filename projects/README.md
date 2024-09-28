@@ -67,7 +67,7 @@ body {
   <p style="color: #4E5283; font-size: 18px; href=https://www.github.com.tobikaboom/stroke">link: https://www.github.com/tobiKaboom/stroke (currently private) </p>
   <p style="color: #7871AA; font-size: 22px">deimos </p>
   <p style="color: #4E5283; font-size: 18px">status: completed, tested and working. </p>
-  <link rel="project repository" href="https://www.github.com/tobiKaboom/deimos">
+  <p style="color: #4E5283; font-size: 18px; href=https://www.github.com.tobikaboom/deimos">link: https://www.github.com/tobiKaboom/deimos </p>
 </div>
    
 </body>
