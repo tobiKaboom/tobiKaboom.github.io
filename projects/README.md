@@ -60,8 +60,15 @@ body {
 </div>
 
 <div class="main">
-  <p style="color: #4E5283">this is the projects page! </p>
-  <p style="color: #4E5283">here i talk about the projects i am working on, update anyone interested on how far i am from completion and serves as a kind of journal. </p>
+  <p style="color: #4E5283; font-size: 26px">all ma projects </p>
+  <p style="color: #4E5283; font-size: 20px">stroke </p>
+  ![343744189-55f024e7-1916-4273-bdc9-bcefab88b34a](https://github.com/user-attachments/assets/93d4b351-2962-48ca-b913-c6f8e371ec42)
+  <p style="color: #4E5283; font-size: 16px">status: stagnant progress. </p>
+  <p style="colot: #4E5283; font-size: 16px">to do: order and test pcb, complete firmware </p>
+  <p style="color: #4E5283; font-size: 20px">deimos </p>
+  ![348502373-ca45a6ca-c90f-4664-8ac4-50c35cd36172](https://github.com/user-attachments/assets/5ed9a8f3-776a-4055-8713-4689b3c0d407)
+  <p style="color: #4E5283; font-size: 16px">status: completed, tested and working. </p>
+ 
 </div>
    
 </body>
