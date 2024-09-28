@@ -22,7 +22,7 @@ body {
   padding: 6px 8px 6px 16px;
   text-decoration: none;
   font-size: 25px;
-  color: #4E5283;
+  color: #4E5;
   display: block;
 }
 
