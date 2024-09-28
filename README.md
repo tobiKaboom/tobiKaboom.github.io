@@ -52,6 +52,7 @@ body {
 <body>
 
 <div class="sidenav">
+  <a href="/">home</a>
   <a href="/projects">projects</a>
   <a href="/b">random</a>
   <a href="/cookies">cookies! 🍪</a>
