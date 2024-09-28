@@ -60,15 +60,14 @@ body {
 </div>
 
 <div class="main">
-  <p style="color: #4E5283; font-size: 26px">all ma projects </p>
-  <p style="color: #4E5283; font-size: 20px">stroke </p>
-  <img src="https://private-user-images.githubusercontent.com/157970333/343744189-55f024e7-1916-4273-bdc9-bcefab88b34a.jpg?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3Mjc1NTkzMDQsIm5iZiI6MTcyNzU1OTAwNCwicGF0aCI6Ii8xNTc5NzAzMzMvMzQzNzQ0MTg5LTU1ZjAyNGU3LTE5MTYtNDI3My1iZGM5LWJjZWZhYjg4YjM0YS5qcGc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQwOTI4JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MDkyOFQyMTMwMDRaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1kNTc3MGZjNjU2ZDc3NDcyZmVjYWQ4ZTQ4M2NlZDZmYjRkYmY5NWI5YWNjZTMwMTc4YjMyMThmNGQ0Mzc0ODhiJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.bRkx5Y0weiD0dgxfSqBwGbIF5B5M8Jm6Jfq5Nx75XqM" alt:"craziness">
-  <p style="color: #4E5283; font-size: 16px">status: stagnant progress. </p>
-  <p style="colot: #4E5283; font-size: 16px">to do: order and test pcb, complete firmware </p>
-  <p style="color: #4E5283; font-size: 20px">deimos </p>
-  <img src="https://private-user-images.githubusercontent.com/157970333/348502373-ca45a6ca-c90f-4664-8ac4-50c35cd36172.JPG?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3Mjc1NTg5ODAsIm5iZiI6MTcyNzU1ODY4MCwicGF0aCI6Ii8xNTc5NzAzMzMvMzQ4NTAyMzczLWNhNDVhNmNhLWM5MGYtNDY2NC04YWM0LTUwYzM1Y2QzNjE3Mi5KUEc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQwOTI4JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MDkyOFQyMTI0NDBaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT04NmQ3YWMxZTg4ZmNjNDU3NDQzM2ExOTJhOTU2MTRjZDc1M2VjMmY2Yzg5MmExMTU3MjJkZGNmMTk5MmVkNjA0JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.bYbkTEn0Jx1Jfie8NH0rnIGhfPHXpXrFsLWGOh03n_Y" alt:"check out the deimos repo">
-  <p style="color: #4E5283; font-size: 16px">status: completed, tested and working. </p>
- 
+  <p style="color: #4E5283; font-size: 28px">all ma projects </p>
+  <p style="color: #4E5283; font-size: 22px">stroke </p>
+  <p style="color: #4E5283; font-size: 18px">status: stagnant progress. </p>
+  <p style="color: #4E5283; font-size: 18px">to do: order and test pcb, complete firmware </p>
+  <p style="color: #4E5283; font-size: 18px; href=https://www.github.com.tobikaboom/stroke">link: https://www.github.com/tobiKaboom/stroke (currently private) </p>
+  <p style="color: #4E5283; font-size: 22px">deimos </p>
+  <p style="color: #4E5283; font-size: 18px">status: completed, tested and working. </p>
+  <p style="color: #4E5283; font-size: 18px; href=https://www.github.com/tobiKaboom/deimos">link: https://www.github.com/tobiKaboom/deimos </p>
 </div>
    
 </body>
