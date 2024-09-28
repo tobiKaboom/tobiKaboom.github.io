@@ -61,13 +61,13 @@ body {
 
 <div class="main">
   <p style="color: #4E5283; font-size: 28px">all ma projects </p>
-  <p style="color: #4E5283; font-size: 22px">stroke </p>
+  <p style="color: #7871AA; font-size: 22px">stroke </p>
   <p style="color: #4E5283; font-size: 18px">status: stagnant progress. </p>
   <p style="color: #4E5283; font-size: 18px">to do: order and test pcb, complete firmware </p>
   <p style="color: #4E5283; font-size: 18px; href=https://www.github.com.tobikaboom/stroke">link: https://www.github.com/tobiKaboom/stroke (currently private) </p>
-  <p style="color: #4E5283; font-size: 22px">deimos </p>
+  <p style="color: #7871AA; font-size: 22px">deimos </p>
   <p style="color: #4E5283; font-size: 18px">status: completed, tested and working. </p>
-  <p style="color: #4E5283; font-size: 18px; href=https://www.github.com/tobiKaboom/deimos">link: https://www.github.com/tobiKaboom/deimos </p>
+  <link rel="project repository" href="https://www.github.com/tobiKaboom/deimos">
 </div>
    
 </body>
