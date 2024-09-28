@@ -60,7 +60,7 @@ body {
 </div>
 
 <div class="main">
-  <p style="color: #4E5283">welcome to the jankiest website ever made</p>
+  <p style="color: #4E5283">insane yapping level today innit</p>
 </div>
    
 </body>
