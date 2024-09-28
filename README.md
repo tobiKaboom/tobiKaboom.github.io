@@ -1,6 +1,6 @@
  <style>
 body {
-  background-color: #b3b3b3;
+  background-color: #3b3b3b;
 }
 </style> 
 
@@ -19,7 +19,7 @@ body {
   z-index: 1;
   top: 0;
   left: 0;
-  background-color: #afafaf;
+  background-color: #202020;
   overflow-x: hidden;
   padding-top: 20px;
 }
