@@ -51,14 +51,11 @@ body {
 <body>
 
 <div class="sidenav">
-  <a href="#about">About</a>
-  <a href="#services">Services</a>
-  <a href="#clients">Clients</a>
   <a href="/projects">projects</a>
 </div>
 
 <div class="main">
-  <p style="color: #7871AA">damn this works</p>
+  <p style="color: #4E5283">welcome to the jankiest website ever made</p>
 </div>
    
 </body>
