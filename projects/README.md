@@ -53,8 +53,8 @@ body {
 
 <div class="sidenav">
   <a href="/">home</a>
-  <a style="font-size: 26px;color: #7871AA; 
-   "href="/projects">projects</a>
+  <a style="font-size: 26px;color: #7871AA;" 
+     href="/projects">projects</a>
   <a href="/b">random</a>
   <a href="/cookies">cookies! 🍪</a>
 </div>
