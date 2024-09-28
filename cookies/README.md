@@ -62,23 +62,23 @@ body {
 <div class="main">
   <p style="color: #4E5283; font-size: 26px">American Chocolate Chip Cookies</p>
   <p style="color: #4E5283; font-size: 20px">Ingredients:</p>
-  <p style="color: #4E5283; font-size: 14px">250g 00 flour;</p>
-  <p style="color: #4E5283; font-size: 14px">200g dark chocolate chips;</p>
-  <p style="color: #4E5283; font-size: 14px">90g cane sugar</p>
-  <p style="color: #4E5283; font-size: 14px">5g powdered yeast</p>
-  <p style="color: #4E5283; font-size: 14px">1 pinch fine salt</p>
-  <p style="color: #4E5283; font-size: 14px">150g soft butter</p>
-  <p style="color: #4E5283; font-size: 14px">1 egg</p>
-  <p style="color: #4E5283; font-size: 14px">90g sugar</p>
-  <p style="color: #4E5283; font-size: 14px">1 vanilla bean extract</p>
+  <p style="color: #4E5283; font-size: 16px">250g 00 flour;</p>
+  <p style="color: #4E5283; font-size: 16px">200g dark chocolate chips;</p>
+  <p style="color: #4E5283; font-size: 16px">90g cane sugar</p>
+  <p style="color: #4E5283; font-size: 16px">5g powdered yeast</p>
+  <p style="color: #4E5283; font-size: 16px">1 pinch fine salt</p>
+  <p style="color: #4E5283; font-size: 16px">150g soft butter</p>
+  <p style="color: #4E5283; font-size: 16px">1 egg</p>
+  <p style="color: #4E5283; font-size: 16px">90g sugar</p>
+  <p style="color: #4E5283; font-size: 16px">1 vanilla bean extract</p>
   <p style="color: #4E5283; font-size: 20px">Prep:</p>
-  <p style="color: #4E5283; font-size: 14px">To prepare the cookies, pour both types of sugar, the butter and the vanilla extract in a bowl. Use a whisk to mix it energetically.</p>
-  <p style="color: #4E5283; font-size: 14px">Once the mixture is homogenous, pour the egg into it and keep mixing.</p>
-  <p style="color: #4E5283; font-size: 14px">Keep mixing until the mixture is homogenous. In a different bowl, mix the flour and the yeast. Then, pour the flour and yeast mixture in the first bowl.</p>
-  <p style="color: #4E5283; font-size: 14px">Keep mixing but this time use a spatula and, once the mixture is homogenous, add a pinch of salt and the dark chocolate chips.</p>
-  <p style="color: #4E5283; font-size: 14px">Mix it all one last time until homogenous, then cover the bowl with seran wrap and let it rest in the fridge for 30 minutes. Then, shape the mixture into small balls which should weigh about 50 grams each, without working into them too much.</p>
-  <p style="color: #4E5283; font-size: 14px">Gently rest the cookie dough balls on an oven tray covered with baking paper. Cook the cookies in an oven heated to 165 degrees celsius for 25-30 minutes in the middle slot.</p>
-  <p style="color: #4E5283; font-size: 14px">Take them out of the oven an let them cool before eating. 🍪</p>
+  <p style="color: #4E5283; font-size: 16px">To prepare the cookies, pour both types of sugar, the butter and the vanilla extract in a bowl. Use a whisk to mix it energetically.</p>
+  <p style="color: #4E5283; font-size: 16px">Once the mixture is homogenous, pour the egg into it and keep mixing.</p>
+  <p style="color: #4E5283; font-size: 16px">Keep mixing until the mixture is homogenous. In a different bowl, mix the flour and the yeast. Then, pour the flour and yeast mixture in the first bowl.</p>
+  <p style="color: #4E5283; font-size: 16px">Keep mixing but this time use a spatula and, once the mixture is homogenous, add a pinch of salt and the dark chocolate chips.</p>
+  <p style="color: #4E5283; font-size: 16px">Mix it all one last time until homogenous, then cover the bowl with seran wrap and let it rest in the fridge for 30 minutes. Then, shape the mixture into small balls which should weigh about 50 grams each, without working into them too much.</p>
+  <p style="color: #4E5283; font-size: 16px">Gently rest the cookie dough balls on an oven tray covered with baking paper. Cook the cookies in an oven heated to 165 degrees celsius for 25-30 minutes in the middle slot.</p>
+  <p style="color: #4E5283; font-size: 16px">Take them out of the oven an let them cool before eating. 🍪</p>
 </div>
    
 </body>
