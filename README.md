@@ -58,7 +58,7 @@ body {
 </div>
 
 <div class="main">
-  <p style="color: #D9BBF9">holy cow this works! :D</p>
+  <p style="color: #7871AA">damn this works</p>
 </div>
    
 </body>
