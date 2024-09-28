@@ -58,7 +58,7 @@ body {
 </div>
 
 <div class="main">
-  <p style="background-color: #191716">Scroll down the page to see the result.</p>
+  <p style="color: #F1E0C5">Scroll down the page to see the result.</p>
 </div>
    
 </body>
