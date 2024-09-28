@@ -13,7 +13,7 @@ body {
   z-index: 1;
   top: 0;
   left: 0;
-  background-color: #010;
+  background-color: #30292F;
   overflow-x: hidden;
   padding-top: 20px;
 }
