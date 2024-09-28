@@ -8,12 +8,12 @@ body {
 
 .sidenav {
   height: 100%;
-  width: 200px;
+  width: 180px;
   position: fixed;
   z-index: 1;
   top: 0;
   left: 0;
-  background-color: #30292F;
+  background-color: #000;
   overflow-x: hidden;
   padding-top: 20px;
 }
