@@ -3,11 +3,33 @@ body {
   background-color: #242424;
 }
 </style> 
-
 <html>
 <head>
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <style>
+.collapsible {
+  background-color: #777;
+  color: white;
+  cursor: pointer;
+  padding: 18px;
+  width: 100%;
+  border: none;
+  text-align: left;
+  outline: none;
+  font-size: 15px;
+}
+
+.active, .collapsible:hover {
+  background-color: #555;
+}
+
+.content {
+  padding: 0 10px;
+  display: none;
+  overflow: hidden;
+  background-color: #111;
+} 
+
 body {
   font-family: "Lato", sans-serif;
 }
@@ -54,7 +76,10 @@ body {
 <div class="sidenav">
   <a style="font-size: 26px;color: #7871AA;" 
      href="/">home</a>
-  <a href="/projects">projects</a>
+   <button type="button" class="collapsible">projects</button>
+<div class="content">
+  <a href="/projects">deimos</a>
+</div> 
   <a href="/b">random</a>
   <a href="/cookies">cookies! 🍪</a>
 </div>
