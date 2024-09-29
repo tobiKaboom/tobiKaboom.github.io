@@ -24,7 +24,7 @@ body {
 }
 
 .content {
-  padding: 0 10px;
+  padding: 0 0px;
   display: none;
   overflow: hidden;
   background-color: #202020;
