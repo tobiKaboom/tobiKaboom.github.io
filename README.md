@@ -21,6 +21,7 @@ body {
 }
 
 .active, .collapsible:hover {
+  font-size: 27px;
   color: #7871AA;
 }
 
