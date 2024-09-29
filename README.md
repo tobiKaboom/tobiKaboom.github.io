@@ -11,7 +11,8 @@ body {
   background-color: #202020;
   color: #4E5283;
   cursor: pointer;
-  padding: 18px;
+  margin-left: 11px;
+  padding: 6px;
   width: 100%;
   border: none;
   text-align: left;
