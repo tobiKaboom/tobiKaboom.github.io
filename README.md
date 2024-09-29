@@ -8,8 +8,8 @@ body {
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <style>
 .collapsible {
-  background-color: #777;
-  color: white;
+  background-color: #202020;
+  color: #4E5283;
   cursor: pointer;
   padding: 18px;
   width: 100%;
@@ -20,14 +20,14 @@ body {
 }
 
 .active, .collapsible:hover {
-  background-color: #555;
+  background-color: #7871AA;
 }
 
 .content {
   padding: 0 10px;
   display: none;
   overflow: hidden;
-  background-color: #111;
+  background-color: #202020;
 } 
 
 body {
@@ -87,6 +87,23 @@ body {
 <div class="main">
   <p style="color: #4E5283">welcome to the jankiest website ever made</p>
 </div>
-   
+
+<script>
+var coll = document.getElementsByClassName("collapsible");
+var i;
+
+for (i = 0; i < coll.length; i++) {
+  coll[i].addEventListener("click", function() {
+    this.classList.toggle("active");
+    var content = this.nextElementSibling;
+    if (content.style.display === "block") {
+      content.style.display = "none";
+    } else {
+      content.style.display = "block";
+    }
+  });
+}
+</script>
+
 </body>
 </html> 
