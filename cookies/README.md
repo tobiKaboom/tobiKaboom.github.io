@@ -80,6 +80,8 @@ body {
   <a href="/">home</a>
    <button type="button" class="collapsible">projects</button>
 <div class="content">
+  <a href="/projects">deimos</a>
+</div> 
   <a href="/b">random</a>
   <a style="font-size: 26px; color: #7871AA"
      href="/cookies">cookies! 🍪</a>
