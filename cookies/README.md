@@ -8,6 +8,31 @@ body {
 <head>
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <style>
+.collapsible {
+  background-color: #202020;
+  color: #4E5283;
+  cursor: pointer;
+  margin-left: 10px;
+  padding: 6px;
+  width: 100%;
+  border: none;
+  text-align: left;
+  outline: none;
+  font-size: 25px;
+}
+
+.active, .collapsible:hover {
+  font-size: 27px;
+  color: #7871AA;
+}
+
+.content {
+  padding: 0 0px;
+  display: none;
+  overflow: hidden;
+  background-color: #202020;
+} 
+ 
 body {
   font-family: "Lato", sans-serif;
 }
@@ -53,7 +78,8 @@ body {
 
 <div class="sidenav">
   <a href="/">home</a>
-  <a href="/projects">projects</a>
+   <button type="button" class="collapsible">projects</button>
+<div class="content">
   <a href="/b">random</a>
   <a style="font-size: 26px; color: #7871AA"
      href="/cookies">cookies! 🍪</a>
@@ -80,6 +106,23 @@ body {
   <p style="color: #4E5283; font-size: 16px">Gently rest the cookie dough balls on an oven tray covered with baking paper. Cook the cookies in an oven heated to 165 degrees celsius for 25-30 minutes in the middle slot.</p>
   <p style="color: #4E5283; font-size: 16px">Take them out of the oven an let them cool before eating. 🍪</p>
 </div>
+
+<script>
+var coll = document.getElementsByClassName("collapsible");
+var i;
+
+for (i = 0; i < coll.length; i++) {
+  coll[i].addEventListener("click", function() {
+    this.classList.toggle("active");
+    var content = this.nextElementSibling;
+    if (content.style.display === "block") {
+      content.style.display = "none";
+    } else {
+      content.style.display = "block";
+    }
+  });
+}
+</script>
    
 </body>
 </html> 
