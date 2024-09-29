@@ -16,11 +16,11 @@ body {
   border: none;
   text-align: left;
   outline: none;
-  font-size: 15px;
+  font-size: 25px;
 }
 
 .active, .collapsible:hover {
-  background-color: #7871AA;
+  color: #7871AA;
 }
 
 .content {
