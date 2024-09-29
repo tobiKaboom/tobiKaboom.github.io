@@ -78,8 +78,8 @@ body {
 
 <div class="sidenav">
   <a href="/">home</a>
-   <button type="button" class="collapsible" style="color: #7871AA; font-size: 26px">projects</button>
-<div class="content">
+  <a style="color: #7871AA; font-size: 26px">projects </a>
+  <a href="/projects">deimos </a>
   <a href="/b">random</a>
   <a href="/cookies">cookies! 🍪</a>
 </div>
