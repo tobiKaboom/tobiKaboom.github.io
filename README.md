@@ -76,14 +76,14 @@ body {
 <body>
 
 <div class="sidenav">
-  <a style="font-size: 25px;color: #7871AA;" 
+  <a style="font-size: 26px;color: #7871AA;" 
      href="/">home</a> 
    <button style="font-size: 25px" type="button" class="collapsible"    >projects</button>
 <div class="content">
   <a href="/projects">deimos</a>
 </div> 
-  <a href="/b">random</a>
-  <a href="/cookies">cookies! 🍪</a>
+  <a style="font-size: 26px" href="/b">random</a>
+  <a style="font-size: 26px" href="/cookies">cookies! 🍪</a>
 </div>
 
 <div class="main">
