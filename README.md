@@ -51,7 +51,7 @@ body {
 .sidenav a {
   padding: 6px 8px 6px 16px;
   text-decoration: none;
-  font-size: 25px;
+  font-size: 26px;
   color: #4E5283;
   display: block;
 }
