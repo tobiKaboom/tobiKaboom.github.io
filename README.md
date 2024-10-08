@@ -76,7 +76,7 @@ body {
 <body>
 
 <div class="sidenav">
-  <a style="font-size: 26px;color: #7871AA;" 
+  <a style="font-size: 25.5px;color: #7871AA;" 
      href="/">home</a>
    <button type="button" class="collapsible">projects</button>
 <div class="content">
