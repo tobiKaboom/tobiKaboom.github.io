@@ -87,7 +87,7 @@ body {
 </div>
 
 <div class="main">
-  <p style="color: #4E5283">welcome to the jankiest website ever made</p>
+  <p style="color: #4E5283">currently under construction, please don't mind the errors!</p>
 </div>
 
 <script>
