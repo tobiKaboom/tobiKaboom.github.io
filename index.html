@@ -6,20 +6,56 @@
     <link href="https://fonts.googleapis.com/css2?family=Inconsolata&display=swap" rel="stylesheet">
     <style>
         body {
-            background: linear-gradient(to bottom, #7209b7, #560bad);
+            background-color: #202020;
             font-family: 'Inconsolata', monospace;
-            margin: 0;
+            margin: 0; 
         }
 
         .top-bar {
-            background: linear-gradient(to bottom, rgba(0, 0, 0, 1), rgba(0, 0, 0, 0));
+            background: linear-gradient(to bottom, rgba(0, 0, 0, 1), rgba(0, 0, 0, 0.0));
+            padding: 8vh;
+            width: 100%;
+            z-index: 1000;
+            top: 0;
+            left: 0;
+            position: fixed;
+        }
+
+        .bottom-bar {
+            background: linear-gradient(to top, rgba(0, 0, 0, 1), rgba(100, 100, 100, 0));
+            padding: 8vh;
+            width: 100%;
+            z-index: 1000;
+            bottom: 0;
+            left: 0;
+            position: fixed;
+        }
+
+        .flexible-container {
+            width: 60%; 
+            height: auto; 
+            margin: 10vh auto; 
+            padding: 0vh;
+            position: relative;
+            color: #dfdfdf; 
+        }
+
+        .flexible-container img {
+            width: 100%; 
+            height: auto; 
+            display: block; 
+        }
+        
     </style>
 </head>
 <body>
-    <header class="top-bar">
-    <div style="
-        text-align: center">
-    <img src="https://raw.githubusercontent.com/tobiKaboom/tobiKaboom.github.io/refs/heads/main/resources/pngplant.png" alt="plant">
-    </div>
+    <header class="top-bar"></header>
+    <main>
+        <div class="flexible-container">
+            <img src="https://raw.githubusercontent.com/tobiKaboom/tobiKaboom.github.io/refs/heads/main/resources/pngplant.png" alt="very epic plant">
+            <p style="font-size: 26px">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
+        </div>
+    </main>
+    <footer class="bottom-bar"></footer>
 </body>
 </html>
