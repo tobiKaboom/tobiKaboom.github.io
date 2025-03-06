@@ -8,6 +8,16 @@
         body {
             background-color: #171A21;
             font-family: monospace;
+            margin: 0; 
+        }
+        .topnav {
+            position: sticky;
+            top: 0; 
+            z-index: 1000;
+            display: flex;
+            justify-content: space-around;
+            padding: 10px 0;
+            backdrop-filter: blur(10px);
         }
         h1 {
             color: #F5CB5C;
@@ -22,20 +32,24 @@
             font-size: 22px;
             text-align: left;
         }
-
         a {
             color: #F2F7E9;
             font-size: 22px;
             transition: 0.3s;
             text-decoration: none;
         }
-
         a:hover {
             color: #F5CB5C;
         }
     </style>
 </head>
 <body>
+    <div class="topnav">
+        <a class="active" href="#home">tobi</a>
+        <a href="#computers">computers</a>
+        <a href="#consoles">consoles</a>
+        <a href="#more">more!</a>
+    </div>
     <h1>
         im tobi ^-^
     </h1>
@@ -47,6 +61,12 @@
     </span>
     <span style="white-space: pre-line">
         this website is also open source! check it out <a href="https://www.github.com/tobiKaboom/tobikaboom.github.io">here</a>.
+    </span>
+        <span style="white-space: pre-line">
+        i'm an italian student and i like coding, free software and console modding.
+    </span>
+    <span style="white-space: pre-line">
+        this is my website / blog, where i post some of the stuff i do and things i think people might find cool.
     </span>
 </body>
 </html>
